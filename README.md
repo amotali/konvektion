@@ -25,10 +25,10 @@ This makes it easier to visually identify commits when checking history, and hel
 - #### 🧼 
   `:soap:` - to be defined
 
-### Tests and experiments
+### Testing and experiments
 
 - #### ⛳ 
-  `:golf:` - to be defined
+  `:golf:` - when adding test cases for production code
 
 - #### 🧪
-  `:test_tube:` - to be defined
+  `:test_tube:` - when conducting isolated experiments
