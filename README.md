@@ -12,7 +12,7 @@ This makes it easier to visually identify commits when checking history, and hel
   `:black_cat:` - when introducing new features  
   
 - #### 🐾 
-  `:paw_prints:` - when adding improvements to existing features
+  `:feet:` - when adding improvements to existing features
 
 - #### 💊 
   `:pill:` - when fixing implementation mistakes
