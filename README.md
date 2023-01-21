@@ -19,11 +19,8 @@ This makes it easier to visually identify commits when checking history, and hel
 
 ### Changes to structure
 
-- #### 🪚 
-  `:carpentry_saw:` - to be defined 
-
-- #### 🧼 
-  `:soap:` - to be defined
+- 🪓 
+  `:axe:` - e.g. _deleted some structural things. everything works the same, the program doesnt seem to complain and slava bogu_
 
 ### Testing and experiments
 
