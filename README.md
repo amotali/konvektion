@@ -6,26 +6,33 @@ Prefix commit messages with emoji code according to type of the change that comm
 
 This makes it easier to visually identify commits when checking history, and helps to be mindful when commiting.
 
-### Changes to behavior
+### :feet: changes to behavior 
 
-- #### 🐈‍⬛
-  `:black_cat:` - when introducing new features  
-  
-- #### 🐾 
-  `:feet:` - when adding improvements to existing features
+Code: `:feet:`  
+Alternatives: :black_cat: :cat2:
 
-- #### 💊 
-  `:pill:` - when fixing implementation mistakes
+Apply when
+- introducing new capabilities
+- fixing behavior of existing functionality
+- removing a part of existing functionality
 
-### Changes to structure
+E.g. _deleted an endpoint, with related route handler, tests, etc._
 
-- 🪓 
-  `:axe:` - e.g. _deleted some structural things. everything works the same, the program doesnt seem to complain and slava bogu_
+### :axe: changes to structure
 
-### Testing and experiments
+Code: `:axe:`  
+Alternatives: :hammer: :carpentry_saw:
 
-- #### ⛳ 
-  `:golf:` - when adding test cases for production code
+E.g. _deleted some structural things. everything works the same, the program doesnt seem to complain and slava bogu_
 
-- #### 🧪
-  `:test_tube:` - when conducting isolated experiments
+### :golf: testing and specification
+
+Code: `:golf:`  
+
+When setting test cases for production code
+
+### ❔ Other
+
+Besides :feet: :axe: and :golf: defined above, where we deal with the part of code that goes to production, there are other types of changes where we deal with documentation, or CI processes, etc. 
+
+Then use emoji's based on situation and your preference.
