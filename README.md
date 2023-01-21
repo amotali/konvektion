@@ -31,7 +31,7 @@ Code: `:golf:`
 
 When setting test cases for production code
 
-### ❔ Other
+### ❔ other changes
 
 Besides :feet: :axe: and :golf: defined above, where we deal with the part of code that goes to production, there are other types of changes where we deal with documentation, or CI processes, etc. 
 
