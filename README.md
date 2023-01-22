@@ -10,31 +10,30 @@ This makes it easier to visually identify commits when checking history, and hel
 
 ### :feet: changes to behavior 
 
-Code: `:feet:`  
-Alternatives: :black_cat: :cat2:
-
-Apply when
-- introducing new capabilities
-- fixing behavior of existing functionality
-- removing a part of existing functionality
-
-E.g. _deleted an endpoint, with related route handler, tests, etc._
+- Implement new feature to track user activity
+- Introduce user interface for sacrifice selection
+- Improve default parameters for population control 
+- Fix bug causing spontaneous combustion of users
 
 ### :axe: changes to structure
 
-Code: `:axe:`  
-Alternatives: :hammer: :carpentry_saw:
-
-E.g. _deleted some structural things. everything works the same, the program doesnt seem to complain and slava bogu_
+- Refactor codebase using new library for HTTP requests
+- Separate modules for tracking and causing natural disasters
+- Remove old and unused abstraction for ritualistic offerings
+- Simplify algorithm for predicting civil unrest
 
 ### :golf: testing and specification
 
-Code: `:golf:`  
-
-When setting test cases for production code
+- Add test cases for new navigation algorithm
+- Refine test suite for changes to sensor data
+- Fix test case causing false negatives
+- Improve test coverage for mortal management feature
 
 ### ❔ other changes
 
-Besides :feet: :axe: and :golf: defined above, where we deal with the part of code that goes to production, there are other types of changes where we deal with documentation, or CI processes, etc. 
+Besides :feet: :axe: :golf: defined above, where we deal with the part of code that goes to production, there are other types of changes. Then use emoji's based on situation and your preference, e.g.:
 
-Then use emoji's based on situation and your preference.
+- Update package dependencies to the latest version :package:
+- Improve CI pipeline for faster build times :robot:
+- Add documentation for propaganda feature usage :book:
+- Publish RFC to deprecate sacrifice for ethical reasons :speech_balloon:
