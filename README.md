@@ -10,30 +10,30 @@ This makes it easier to visually identify commits when checking history, and hel
 
 ### :feet: changes to behavior 
 
-- Implement new feature to track user activity
-- Introduce user interface for sacrifice selection
-- Improve default parameters for population control 
-- Fix bug causing spontaneous combustion of users
+- :feet: Implement new feature to track user activity
+- :feet: Introduce user interface for sacrifice selection
+- :feet: Improve default parameters for population control 
+- :feet: Fix bug causing spontaneous combustion of users
 
 ### :axe: changes to structure
 
-- Refactor codebase using new library for HTTP requests
-- Separate modules for tracking and causing natural disasters
-- Remove old and unused abstraction for ritualistic offerings
-- Simplify algorithm for predicting civil unrest
+- :axe: Refactor codebase using new library for HTTP requests
+- :axe: Separate modules for tracking and causing natural disasters
+- :axe: Remove old and unused abstraction for ritualistic offerings
+- :axe: Simplify algorithm for predicting civil unrest
 
 ### :golf: testing and specification
 
-- Add test cases for new navigation algorithm
-- Refine test suite for changes to sensor data
-- Fix test case causing false negatives
-- Improve test coverage for mortal management feature
+- :golf: Add test cases for new navigation algorithm
+- :golf: Refine test suite for changes to sensor data
+- :golf: Fix test case causing false negatives
+- :golf: Improve test coverage for mortal management feature
 
 ### ❔ other changes
 
 Besides :feet: :axe: :golf: defined above, where we deal with the part of code that goes to production, there are other types of changes. Then use emoji's based on situation and your preference, e.g.:
 
-- Update package dependencies to the latest version :package:
-- Improve CI pipeline for faster build times :robot:
-- Add documentation for propaganda feature usage :book:
-- Publish RFC to deprecate sacrifice for ethical reasons :speech_balloon:
+- :package: Update package dependencies to the latest version 
+- :robot: Improve CI pipeline for faster build times 
+- :book: Add documentation for propaganda feature usage 
+- :speech_balloon: Publish RFC to deprecate sacrifice for ethical reasons 
