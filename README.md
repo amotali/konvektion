@@ -29,9 +29,11 @@ This makes it easier to visually identify commits when checking history, and hel
 - :golf: Fix test case causing false negatives
 - :golf: Improve test coverage for mortal management feature
 
-### ❔ other changes
+### :gear: other changes
 
-Besides :feet: :axe: :golf: defined above, where we deal with the part of code that goes to production, there are other types of changes. Then use emoji's based on situation and your preference, e.g.:
+----
+
+Besides :feet: :axe: :golf: :gear: defined above, where we deal with the part of code that goes to production, there are other types of changes. Then use emoji's based on situation and your preference, e.g.:
 
 - :package: Update package dependencies to the latest version 
 - :robot: Improve CI pipeline for faster build times 
