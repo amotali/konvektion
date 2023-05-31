@@ -54,7 +54,7 @@ Some tasks might encounter obstacles or their priority may diminish over time. S
 
 - Embrace the rhythm of feedback and iteration. Try things out, talk with your friends, and learn as you go. 
 - There will be moments of intensity and calmness in our performance. Cherish both.
-- It's a dance, not a race. This workflow is like the theme song setting the rhythm. Feel the beat and move your own way.
+- It's a dance, not a race. This workflow is like the [theme song](https://www.youtube.com/watch?v=vOOb2XFtQDM) setting the rhythm. Feel the beat and move your own way.
 - Again, remember: too many moves at once is cringe; focus is cute; balance is key. 
 - Another thing that is cringe is a guide that doesn't help much. Contributions are welcome.
 
