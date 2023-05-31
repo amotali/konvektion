@@ -6,8 +6,9 @@ The nature of our work is ever-evolving, demanding a dynamic balance between foc
 
 We started with a classic Kanban board in Github Projects, and liked it for its clarity and focus. So the following guide builds on that concept, adjusted to our rather divergent manner of work, 
 
-Here's our take on it, a workflow to fill our working memory with the right things in the right sequence.
+Here's our take on it, a workflow to fill our working memory with the right things in the right sequence. I would call it Kanbanman
 
+![kanbanman](https://github.com/amotali/konvektion/assets/25614707/15808aad-0ee7-4c1f-8bfc-1c74816994ec)
  
 ### Revealing what *to do*
 
