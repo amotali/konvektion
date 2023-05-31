@@ -1,14 +1,14 @@
 # Navigating Tasks & Progress
 
-The nature of our work is ever-evolving, demanding a dynamic balance between focus and flexibility, individual effort and team collaboration. 
+The nature of our work is ever-evolving, demanding a dynamic balance between focus and flexibility. 
 
-We started with a classic Kanban board in Github Projects, and liked it for its clarity and focus. So the following guide builds on [concepts of Kanban](https://www.youtube.com/shorts/wEN8DINqEss), adjusted to our rather divergent manner of work.
+For this we started managing our work with a classic Kanban board in Github Projects, and liked it for its clarity and focus. Now we're adjusting the workflow to our rather divergent manner of work, on top of [concepts of Kanban](https://www.youtube.com/shorts/wEN8DINqEss).
 
-Here's our take on it, a workflow to fill our working memory with the right things in the right sequence. I would call it _Kanbanman_
+Here's our take on it, a workflow to fill our working memory with the right things in the right sequence. Meet _Kanbanman_.
 
-![kanbanman](https://github.com/amotali/konvektion/assets/25614707/15808aad-0ee7-4c1f-8bfc-1c74816994ec)
+![kanbanman transformation](https://github.com/amotali/konvektion/assets/25614707/15808aad-0ee7-4c1f-8bfc-1c74816994ec)
  
-### Revealing what *to do*
+### Revealing what to do
 
 #### 1. No Status
 
@@ -22,7 +22,7 @@ Tasks in this stage have been evaluated and are selected to be worked on. They h
 
 > **Pro-tip**: Set your task limit to just a few at a time. Let's say, three. Start working on them. You'll soon understand why you can't juggle more than that effectively. 
 
-### Tracking *progress*
+### Tracking progress
 
 It's tricky to show progress. Tasks are like hills. The climb up can be an intense exploration, but once you're at the top with charted map, it's a clear run downhill. Tough at first, but you get the hang of it. More on this in [Shape Up](https://basecamp.com/shapeup).
 
@@ -38,7 +38,7 @@ Here, we delve into the details of the tasks, tackling unknowns, and testing the
 
 Putting our plans into action, we elegantly execute our steps, transforming our ideas and experiments into production. After all the insight we gathered from the previous explorations, this should feel like we glide downhill. 
 
-### Reflecting on what's *complete*
+### Reflecting on what's complete
 
 #### 5. Done
 
