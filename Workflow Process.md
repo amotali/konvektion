@@ -34,7 +34,7 @@ Here, we delve into the details of the tasks, tackling unknowns, and testing the
 
 > **Pro-tip**: Give yourself an hour to just try going in a new direction. After an hour you’ll know for sure why you can’t get there in an hour. Make a note. Take a rest. Then play with whatever blocked your progress.
 
-#### 4. Execution
+#### 4. Application
 
 Putting our plans into action, we elegantly execute our steps, transforming our ideas and experiments into production. After all the insight we gathered from the previous explorations, this should feel like we glide downhill. 
 
@@ -48,7 +48,7 @@ This is where tasks reach their conclusion. It's a testament to successful work,
 
 Some tasks might encounter obstacles or their priority may diminish over time. Such tasks are placed here, written on ice, neither forgotten nor fully remembered.
 
-> **Pro-tip**: Don't view tasks on ice as failures. They could offer valuable lessons or be useful in the future under different circumstances. They could mean time gained by note doing useless work, at least for now.
+> **Pro-tip**: Don't view tasks on ice as failures. They may offer valuable lessons or be useful in the future under different circumstances. They may also mean time gained by note doing useless work.
 
 ## Quick Notes
 
