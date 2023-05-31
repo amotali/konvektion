@@ -1,12 +1,10 @@
-# Workflow Process
-
 # Navigating Tasks & Progress
 
 The nature of our work is ever-evolving, demanding a dynamic balance between focus and flexibility, individual effort and team collaboration. 
 
-We started with a classic Kanban board in Github Projects, and liked it for its clarity and focus. So the following guide builds on that concept, adjusted to our rather divergent manner of work, 
+We started with a classic Kanban board in Github Projects, and liked it for its clarity and focus. So the following guide builds on [concepts of Kanban](https://www.youtube.com/shorts/wEN8DINqEss), adjusted to our rather divergent manner of work.
 
-Here's our take on it, a workflow to fill our working memory with the right things in the right sequence. I would call it Kanbanman
+Here's our take on it, a workflow to fill our working memory with the right things in the right sequence. I would call it _Kanbanman_
 
 ![kanbanman](https://github.com/amotali/konvektion/assets/25614707/15808aad-0ee7-4c1f-8bfc-1c74816994ec)
  
@@ -61,4 +59,3 @@ Some tasks might encounter obstacles or their priority may diminish over time. S
 - Another thing that is cringe is a guide that doesn't help much. Contributions are welcome.
 
 ## Integration with Tooling
-
