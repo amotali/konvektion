@@ -2,7 +2,7 @@ This is a repository of wisdom accumulated through our own journey.
 
 It shares the methods that have made software development and team collaboration enjoyable for us.
 
-## Commit messages
+# Commit messages that speak
 
 Every commit message counts. It’s like a note in our project's diary, telling a part of its story. 
 
@@ -10,9 +10,9 @@ To make these stories easier to read, we’ve created some guidelines to prefix 
 
 This makes it easier to visually identify commits when checking history, and helps to be mindful when commiting.
 
-### :feet: Changes to Behavior
+## :feet: 
 
-This is for the commits that introduce new features, fix bugs, or improve the functionality of our software.
+**Changes to Behavior:** This is for the commits that introduce new features, fix bugs, or improve the functionality of our software.
 
 > :feet: Implement new feature to track user activity
 
@@ -20,9 +20,9 @@ This is for the commits that introduce new features, fix bugs, or improve the fu
 
 > :feet: Fix bug causing spontaneous combustion of users
 
-### :axe: Changes to Structure
+## :axe: 
 
-When we refactor the codebase, separate modules, or remove old and unused abstractions, we use this emoji.
+**Changes to Structure:** When we refactor the codebase, separate modules, or remove old and unused abstractions, we use :axe:.
 
 > :axe: Refactor codebase using new library for HTTP requests
 
@@ -30,9 +30,9 @@ When we refactor the codebase, separate modules, or remove old and unused abstra
 
 > :axe: Remove old and unused abstraction for ritualistic offerings
 
-### :golf: Testing and Specification
+## :golf: 
 
-Commit messages that include adding test cases, refining our test suite, and improving our test coverage use this emoji.
+**Testing and Specification:** Commit messages that include adding test cases, refining our test suite, and improving our test coverage use :golf:.
 
 > :golf: Add test cases for new navigation algorithm
 
@@ -40,9 +40,9 @@ Commit messages that include adding test cases, refining our test suite, and imp
   
 > :golf: Improve test coverage for mortal management feature
 
-### :gear: Other Changes
+## :gear: 
 
-If your commit doesn't fall into the above categories, no worries, use this emoji. It's like a wildcard!
+**Other Changes:** If your commit doesn't fall into the above categories, no worries, use :gear:. It's like a wildcard!
 
 And remember, there are other emojis for other types of changes. Feel free to use them based on the situation and your preference. 
 
