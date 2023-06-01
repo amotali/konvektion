@@ -18,10 +18,9 @@ The ideas that make it out of the brainstorming stage land here. They are refine
 
 #### 3. Research
 
-Here, we break down tasks, ask questions, find answers, make prototypes. It's a bit challenging, but it prepares us for a smooth execution.
+Here, we break down tasks, ask questions, find answers, make prototypes. It's a bit challenging, but it prepares us for a smooth implementation.
 
-
-#### 4. Application
+#### 4. Implementation
 
 Equipped with insights from our research, we turn our ideas into tangible product here. 
 
@@ -37,7 +36,7 @@ Some tasks might encounter obstacles or their priority may diminish over time. S
 
 #### Tracking Progress
 
-Work in progress has two distinct phases, akin to an uphill and downhill journey. During the **Research** stage, we embark on the uphill climb. It's a time of discovery, probing, and planning. We might need to experiment, take detours, or even hit a few dead ends. Once we're clear about the work involved and have our plan ready, the downhill phase during the **Application** stage often feels smoother, like we're coasting towards our goal.
+Work in progress has two distinct phases, akin to an uphill and downhill journey. During the **Research** phase, we embark on the uphill climb. It's a time of discovery, probing, and planning. We might need to experiment, take detours, or even hit a few dead ends. Once we're clear about the work involved and have our plan ready, the downhill phase during the **Implementation** phase often feels smoother, like we're coasting towards our goal.
 
 > **Pro-tip**: It's easy to get lost in sea of unknowns. Give yourself an hour to just try going in a new direction. After an hour you’ll know for sure why you can’t get there in an hour. Make a note. Take a rest. Then play with whatever blocked your progress.
 
