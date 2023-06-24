@@ -28,7 +28,7 @@ Equipped with insights from our research, we turn our ideas into tangible produc
 
 This is where tasks reach their conclusion. It's a testament to successful work, a zone for well-deserved rest and a launch pad for the next endeavor.
 
-#### 6. Cold Storage
+#### Archive
 
 Some tasks might encounter obstacles or their priority may diminish over time. Such tasks are placed here, neither forgotten nor fully remembered, written on ice, offering a chance to reflect on them in the future.
 
