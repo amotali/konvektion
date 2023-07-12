@@ -2,40 +2,54 @@ This is a repository of wisdom accumulated through our own journey.
 
 It shares the methods that have made software development and team collaboration enjoyable for us.
 
-## Commit messages
+# Commit messages that speak
 
-Prefix commit messages with emoji code according to type of the change that commit brings.
+Every commit message counts. It’s like a note in our project's diary, telling a part of its story. 
+
+To make these stories easier to read, we’ve created some guidelines to prefix commit messages with emoji code according to type of the change that commit brings.
 
 This makes it easier to visually identify commits when checking history, and helps to be mindful when commiting.
 
-### :feet: changes to behavior 
+## :feet: 
 
-- :feet: Implement new feature to track user activity
-- :feet: Introduce user interface for sacrifice selection
-- :feet: Improve default parameters for population control 
-- :feet: Fix bug causing spontaneous combustion of users
+**Changes to Behavior:** This is for the commits that introduce new features, fix bugs, or improve the functionality of our software.
 
-### :axe: changes to structure
+> :feet: Implement new feature to track user activity
 
-- :axe: Refactor codebase using new library for HTTP requests
-- :axe: Separate modules for tracking and causing natural disasters
-- :axe: Remove old and unused abstraction for ritualistic offerings
-- :axe: Simplify algorithm for predicting civil unrest
+> :feet: Improve default parameters for population control
 
-### :golf: testing and specification
+> :feet: Fix bug causing spontaneous combustion of users
 
-- :golf: Add test cases for new navigation algorithm
-- :golf: Refine test suite for changes to sensor data
-- :golf: Fix test case causing false negatives
-- :golf: Improve test coverage for mortal management feature
+## :axe: 
 
-### :gear: other changes
+**Changes to Structure:** When we refactor the codebase, separate modules, or remove old and unused abstractions, we use :axe:.
 
-----
+> :axe: Refactor codebase using new library for HTTP requests
 
-Besides :feet: :axe: :golf: :gear: defined above, where we deal with the part of code that goes to production, there are other types of changes. Then use emoji's based on situation and your preference, e.g.:
+> :axe: Separate modules for tracking and causing natural disasters
 
-- :package: Update package dependencies to the latest version 
-- :robot: Improve CI pipeline for faster build times 
-- :book: Add documentation for propaganda feature usage 
-- :speech_balloon: Publish RFC to deprecate sacrifice for ethical reasons 
+> :axe: Remove old and unused abstraction for ritualistic offerings
+
+## :golf: 
+
+**Testing and Specification:** Commit messages that include adding test cases, refining our test suite, and improving our test coverage use :golf:.
+
+> :golf: Add test cases for new navigation algorithm
+
+> :golf: Refine test suite for changes to sensor data
+  
+> :golf: Improve test coverage for mortal management feature
+
+## :gear: 
+
+**Other Changes:** If your commit doesn't fall into the above categories, no worries, use :gear:. It's like a wildcard!
+
+And remember, there are other emojis for other types of changes. Feel free to use them based on the situation and your preference. 
+
+> :package: Update package dependencies to the latest version 
+
+> :robot: Improve CI pipeline for faster build times 
+
+> :book: Add documentation for propaganda feature usage
+
+> :speech_balloon: Publish RFC to deprecate sacrifice for ethical reasons 
