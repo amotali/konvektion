@@ -4,5 +4,5 @@ It shares the methods that have made software development and team collaboration
 
 Check our conventions for:
 
-- [Workflow Process](Workflow Process.md)
-- [Commit messages](Commit Messages That Speak.md)
+- [Workflow Process](Workflow%20Process.md)
+- [Commit messages](Commit%20Messages%20That%20Speak.md)
